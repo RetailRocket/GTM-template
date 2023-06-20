@@ -15,5 +15,5 @@
 homepage: "https://retailrocket.net/"
 documentation: "https://docs.retailrocket.net/"
 versions:
-  - sha: 9c972fac4f446e5a34a86c38de6c5bac296930b8
+  - sha: a7dffbaa9f55f47df2ddf674e484d0db62d5c0c4
     changeNotes: Initial Version
